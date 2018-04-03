@@ -1,0 +1,19 @@
+/*可以到处使用啦！*/
+.icon{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url(icons.jpg);
+    background-size: 700% 700%;
+}
+.r1c1{
+    background-position: 0 0;
+}
+.r1c2{
+    background-position: -16px 0;
+}
+.r1c3{
+    background-position: -32px 0;
+}
+
+/*其它更多图标略*/
